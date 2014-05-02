@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BusinessObjectCore", "BusinessObjectCore\BusinessObjectCore.vbproj", "{D0EDA0F8-BDAA-4FC6-BCCD-C64DBF7924DC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BusinessObjectCore4", "BusinessObjectCore4.0\BusinessObjectCore4.vbproj", "{C34FE7AA-66E2-4E5A-8AFB-3B3F32252047}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://216.196.199.110:8080/tfs/leahy%20projects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BusinessObjectCore4.0\\BusinessObjectCore4.vbproj
+		SccProjectName1 = BusinessObjectCore4.0
+		SccLocalPath1 = BusinessObjectCore4.0
+		SccProjectUniqueName2 = BusinessObjectCore\\BusinessObjectCore.vbproj
+		SccProjectName2 = BusinessObjectCore
+		SccLocalPath2 = BusinessObjectCore
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0EDA0F8-BDAA-4FC6-BCCD-C64DBF7924DC}.Debug|x86.ActiveCfg = Debug|x86
+		{D0EDA0F8-BDAA-4FC6-BCCD-C64DBF7924DC}.Debug|x86.Build.0 = Debug|x86
+		{D0EDA0F8-BDAA-4FC6-BCCD-C64DBF7924DC}.Release|x86.ActiveCfg = Release|x86
+		{D0EDA0F8-BDAA-4FC6-BCCD-C64DBF7924DC}.Release|x86.Build.0 = Release|x86
+		{C34FE7AA-66E2-4E5A-8AFB-3B3F32252047}.Debug|x86.ActiveCfg = Debug|x86
+		{C34FE7AA-66E2-4E5A-8AFB-3B3F32252047}.Debug|x86.Build.0 = Debug|x86
+		{C34FE7AA-66E2-4E5A-8AFB-3B3F32252047}.Release|x86.ActiveCfg = Release|x86
+		{C34FE7AA-66E2-4E5A-8AFB-3B3F32252047}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
