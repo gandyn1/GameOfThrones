@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfThrones_UI", "GameOfThrones_UI\GameOfThrones_UI.csproj", "{3EE792A4-491C-4E44-B7A8-0144B674EB5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfThrones", "..\GameOfThrones\GameOfThrones\GameOfThrones.csproj", "{15FAAA27-44B8-455E-B474-F9B7809AE73B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE792A4-491C-4E44-B7A8-0144B674EB5B}.Debug|x86.ActiveCfg = Debug|x86
+		{3EE792A4-491C-4E44-B7A8-0144B674EB5B}.Debug|x86.Build.0 = Debug|x86
+		{3EE792A4-491C-4E44-B7A8-0144B674EB5B}.Release|x86.ActiveCfg = Release|x86
+		{3EE792A4-491C-4E44-B7A8-0144B674EB5B}.Release|x86.Build.0 = Release|x86
+		{15FAAA27-44B8-455E-B474-F9B7809AE73B}.Debug|x86.ActiveCfg = Debug|x86
+		{15FAAA27-44B8-455E-B474-F9B7809AE73B}.Debug|x86.Build.0 = Debug|x86
+		{15FAAA27-44B8-455E-B474-F9B7809AE73B}.Release|x86.ActiveCfg = Release|x86
+		{15FAAA27-44B8-455E-B474-F9B7809AE73B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
