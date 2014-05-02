@@ -1,0 +1,6 @@
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones/GameOfThrones/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones/GameOfThrones/bin/Debug/GameOfThrones.exe.mdb
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones/GameOfThrones/bin/Debug/GameOfThrones.exe
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones/GameOfThrones/obj/x86/Debug/GameOfThrones.exe
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones/GameOfThrones/obj/x86/Debug/GameOfThrones.exe.mdb
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones/GameOfThrones/bin/Debug/BusinessObjectCore.dll

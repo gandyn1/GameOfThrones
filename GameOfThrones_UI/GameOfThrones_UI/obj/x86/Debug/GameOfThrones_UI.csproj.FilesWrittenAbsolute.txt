@@ -1,0 +1,10 @@
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/obj/x86/Debug/GameOfThrones_UI.Form1.resources
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/obj/x86/Debug/GameOfThrones_UI.Properties.Resources.resources
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/bin/Debug/GameOfThrones_UI.exe.mdb
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/bin/Debug/GameOfThrones_UI.exe
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/obj/x86/Debug/GameOfThrones_UI.exe
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/obj/x86/Debug/GameOfThrones_UI.exe.mdb
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/bin/Debug/BusinessObjectCore.dll
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/bin/Debug/GameOfThrones.exe
+/Users/nicholasgandy/Documents/GitHub/GameOfThrones/GameOfThrones_UI/GameOfThrones_UI/bin/Debug/GameOfThrones.exe.mdb
